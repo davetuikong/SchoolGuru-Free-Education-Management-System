@@ -1,6 +1,4 @@
-Easy to Manage Schools, Colleges, Universities & Training Centres
-
-Its Completely Free just Upload your modification to this Github.
+SchoolGuru  is a Free School Management system to help manage Manage Schools, Colleges, Universities & Training Centres
 
 It is Built on .NET 4.5 Framwork, C# and runs on the Powerful PostgreSQL Database
 SchoolGuru integrates your Education Community and takes the hassle. 
@@ -21,13 +19,13 @@ The Available Modules:
 -Boarding/Transportation management module
 -Scholarship management module
 -Payroll management module
-- Library management module
+-Library management module
 -Accounts management module
 -Examination Management Module
 -School Calendar module
 -Fee payment tracking per student with unlimited history
 -Unlimited user license
-- Optional Web Access Module
+-Optional Web Access Module
 -Optional SMS Module
 
 
